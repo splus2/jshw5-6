@@ -40,7 +40,7 @@ function startTimerButton() {
       buttonNameChange = document.getElementById('button-start');
  
       buttonNameChange.value = 'Continue';
-      buttonNameChange.style.background = 'blue';
+      buttonNameChange.style.background = 'green';
     }
 
   console.log('COUNT: ', clickCounter);
